@@ -42,7 +42,10 @@ namespace SIU
             this.button1.TabIndex = 0;
             this.button1.Text = "SIU?!";
             this.button1.UseVisualStyleBackColor = false;
+<<<<<<< HEAD
             this.button1.Click += new System.EventHandler(this.button1_Click);
+=======
+>>>>>>> 49ecf8d6e63e7e26f29f3d2fb8dd114bf0fd93c5
             // 
             // SIIIUUUUU
             // 
